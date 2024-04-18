@@ -8,6 +8,7 @@ class Program {
         do {
             Console.WriteLine("Digite numeros Positivos ou negativos ou zeros abaixo de 1000 ou digite 1000 para fazer contagem");
             num = int.Parse(Console.ReadLine());
+            if(num != 1000){
             if(num > 0 && num < 1000 ){
                 pos++;
             }
@@ -17,7 +18,7 @@ class Program {
             else {
                 zeros++;
             }
-
+          }
         }while(num != 1000);
 
             Console.WriteLine("Final da contagem");
