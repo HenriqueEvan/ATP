@@ -24,9 +24,9 @@ class Program {
             Console.WriteLine("desenha continuar? digite: Sim(s) ou Não(n)");
             opcao = Console.ReadLine();
         }while(opcao.ToLower() == "s");
-            perP = Convert.ToDouble((pos / soma) * 100);
-            perN = Convert.ToDouble((neg / soma) * 100);
-            perZ = (double)((zeros/ soma) * 100);
+            perP = (double)(pos * 100) / soma;
+            perN = (double)(neg * 100) / soma;
+            perZ = (double)(zeros * 100) / soma;
 
         //saída de dados
             Console.WriteLine("Final da contagem");
