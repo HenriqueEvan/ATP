@@ -24,14 +24,14 @@ class Program {
             Console.WriteLine("desenha continuar? digite: Sim(s) ou Não(n)");
             opcao = Console.ReadLine();
         }while(opcao.ToLower() == "s");
-            perP = ( pos / soma) * 100;
-            perN = ( neg / soma) * 100;
-            perZ = ( zeros/ soma) * 100;
+            perP = Convert.ToDouble((pos / soma) * 100);
+            perN = Convert.ToDouble((neg / soma) * 100);
+            perZ = (double)((zeros/ soma) * 100);
 
         //saída de dados
             Console.WriteLine("Final da contagem");
             Console.WriteLine("Números de valores Positivos: {0}, Negativos: {1} e Zeros: {2}", pos, neg, zeros);
-            Console.WriteLine("porcentagem de positivos: {0}% negativos: {1}% zeros: {2}%", perP,perN,perZ);
+            Console.WriteLine("porcentagem de positivos: {0:f2} % negativos: {1:f2} % zeros: {2:f2} %", perP,perN,perZ);
 
     }
 }

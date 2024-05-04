@@ -1,0 +1,15 @@
+C:\Users\Henrique\Documents\aulas\ATP\lista03\lista3exercicio8\bin\Debug\net8.0\lista3exercicio8.exe
+C:\Users\Henrique\Documents\aulas\ATP\lista03\lista3exercicio8\bin\Debug\net8.0\lista3exercicio8.deps.json
+C:\Users\Henrique\Documents\aulas\ATP\lista03\lista3exercicio8\bin\Debug\net8.0\lista3exercicio8.runtimeconfig.json
+C:\Users\Henrique\Documents\aulas\ATP\lista03\lista3exercicio8\bin\Debug\net8.0\lista3exercicio8.dll
+C:\Users\Henrique\Documents\aulas\ATP\lista03\lista3exercicio8\bin\Debug\net8.0\lista3exercicio8.pdb
+C:\Users\Henrique\Documents\aulas\ATP\lista03\lista3exercicio8\obj\Debug\net8.0\lista3exercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\Documents\aulas\ATP\lista03\lista3exercicio8\obj\Debug\net8.0\lista3exercicio8.AssemblyInfoInputs.cache
+C:\Users\Henrique\Documents\aulas\ATP\lista03\lista3exercicio8\obj\Debug\net8.0\lista3exercicio8.AssemblyInfo.cs
+C:\Users\Henrique\Documents\aulas\ATP\lista03\lista3exercicio8\obj\Debug\net8.0\lista3exercicio8.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Documents\aulas\ATP\lista03\lista3exercicio8\obj\Debug\net8.0\lista3exercicio8.sourcelink.json
+C:\Users\Henrique\Documents\aulas\ATP\lista03\lista3exercicio8\obj\Debug\net8.0\lista3exercicio8.dll
+C:\Users\Henrique\Documents\aulas\ATP\lista03\lista3exercicio8\obj\Debug\net8.0\refint\lista3exercicio8.dll
+C:\Users\Henrique\Documents\aulas\ATP\lista03\lista3exercicio8\obj\Debug\net8.0\lista3exercicio8.pdb
+C:\Users\Henrique\Documents\aulas\ATP\lista03\lista3exercicio8\obj\Debug\net8.0\lista3exercicio8.genruntimeconfig.cache
+C:\Users\Henrique\Documents\aulas\ATP\lista03\lista3exercicio8\obj\Debug\net8.0\ref\lista3exercicio8.dll
