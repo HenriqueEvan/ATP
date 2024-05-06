@@ -4,6 +4,7 @@ class Program {
   public static void Main (string[] args) {
     //  Declaração das variaveis
     int qtd = 0, num = 0, u=0, d=0, c=0, m=0, num3e9 = 0, num2 = 0, num5 = 0;
+    //estrutura de repetição para coleta dos números
     while (qtd<10){
       Console.WriteLine("Digite um número: ");
       num = int.Parse(Console.ReadLine());
